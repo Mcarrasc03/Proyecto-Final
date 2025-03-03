@@ -5,7 +5,7 @@ Matplot++ es una biblioteca grafica de C++, que genera gráficos cientificos, de
 
 Este proyecto tiene como objetivo demostrar la implementación y uso de la biblioteca Matplot++ en un entorno C++. Se presentan ejemplos de visualización de datos y gráficos matemáticos para ilustrar la funcionalidad de la librería y su aplicabilidad en proyectos científicos, asimismo se presentarán las respectivas instrucciones para su instalación y su reproducción.
 
-### Instrucciones de la instalación
+### Instrucciones de la instalación jajajajajaja
 
 Para instalar la bilbioteca se utilizó un repositorio "https://github.com/alandefreitas/matplotplusplus/releases/" desde el cual se descargo la carpeta ```Source code (zip)``` la cual está comprimida, dicha carpeta se descarga en el computador como ```matplotplusplus-1.2.2```.
 
