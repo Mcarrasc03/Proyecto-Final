@@ -13,6 +13,9 @@ Una vez se descargaba la carpeta, usualmente se descarga en Downloads por lo que
 Una vez se haya descomprimido se revisa ```ls``` que haya ```cmake```luego se crea una carpeta llamada ```mkdir build``` entra a build, luego en build se escribe ``` cmake ../``` para leer la configuración, una vez se haya finalizado, al revisar el contenido de build ```ls``` entre su contenido, va a tener ```makefiles```, ahora para compilar se escribe ```make -j $(nproc)``` de manera que es mucho más rápido compilar la libreria. Para saber si funciono la instalación se debe erevisar con un ejemplo.
 ### Compilar
 
+![Codeejemplo](https://github.com/user-attachments/assets/0653b980-c2e3-4bdc-bcac-706f9e55826b)
+
+
 ```
 Foto de un ejemplo x y su compilacion
 ```
